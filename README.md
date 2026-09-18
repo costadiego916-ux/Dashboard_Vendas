@@ -2,7 +2,7 @@
 
 Dashboard desenvolvido com Excel, Power Query, DAX e Power BI para analisar os principais indicadores de vendas.
 
-![Dashboard de Vendas](dashboard-vendas.png)
+![Dashboard de Vendas](dashboard-vendas..png)
 
 ## Indicadores
 
